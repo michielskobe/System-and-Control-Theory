@@ -1,4 +1,4 @@
-# System-and-Control-Theory
+# Take Home Exam System and Control Theory [syscon-theory-take-home-exam]
 
 This project tackles a problem about system stability and control theory in the context of the Systems and Control Theory course of the Bachelor in Engineering Technology at KU Leuven, academic year 2022-2023. Using MATLAB, 2 systems are investigated: an unknown system that is stable and an unstable system whose transfer function is known. The theory covered in the lectures is to be applied to these systems.
 
@@ -7,8 +7,8 @@ This project tackles a problem about system stability and control theory in the 
 ### Clone the repository
 
 ```bash
-$ git clone git@github.com:michielskobe/System-and-Control-Theory.git
-$ cd System-and-Control-Theory
+$ git clone git@github.com:michielskobe/syscon-theory-take-home-exam.git
+$ cd syscon-theory-take-home-exam
 ```
 
 ### MATLAB Add-Ons
